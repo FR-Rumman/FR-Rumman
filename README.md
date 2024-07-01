@@ -12,4 +12,4 @@
 
 📫 You can reach me at frrumman63@gmail.com. Let's connect and share our knowledge! 📫
 - ⚡ Fun fact🔲
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-fazla-rabbi-rumman-b51669290/)  
