@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**FR-Rumman/FR-Rumman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on web development 
+- 🌱 I’m currently learning at the NORTH SOUTH UNIVERSITY, BANGLADESH
+- 💡 Always eager to learn and explore new technologies to stay ahead in the rapidly evolving world of web development. 💡
+- 💬 Ask me about any problem sloving issues
+- 🚀 I love turning ideas into reality through clean, efficient, and scalable code. Let's collaborate and build something amazing together!
+
+🌱 Currently, I'm actively seeking new opportunities to contribute to exciting projects and grow as a developer. 🌱
+
+📫 You can reach me at frrumman63@gmail.com. Let's connect and share our knowledge! 📫
+- ⚡ Fun fact🔲
+
