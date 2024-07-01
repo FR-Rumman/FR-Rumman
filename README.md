@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-
+(https://media.licdn.com/dms/image/D5616AQGao1Aiis9X3A/profile-displaybackgroundimage-shrink_350_1400/0/1719842374316?e=1725494400&v=beta&t=DCR8DGYA5504YP046gfIVJRwqSu8oQaMdrkGYp-tuzM)
 
 - 🔭 I’m currently working on web development 
 - 🌱 I’m currently learning at the NORTH SOUTH UNIVERSITY, BANGLADESH
